@@ -2,5 +2,6 @@
 Student ...
 
 ## My projects.
-
-## My skills. 
+* Some Projects.
+## My skills.
+* Some skills. 
